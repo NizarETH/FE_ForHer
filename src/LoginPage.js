@@ -32,7 +32,7 @@ const LoginPage = () => {
   };
 
   const handleRegisterRedirect = () => {
-    navigate("/RegisterPage"); // Redirige vers la page d'inscription
+    navigate("/register"); // Redirige vers la page d'inscription
   };
 
   return (
